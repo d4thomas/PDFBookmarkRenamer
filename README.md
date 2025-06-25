@@ -5,7 +5,7 @@ A simple command-line tool to view and rename PDF bookmarks interactively.
 ## Requirements
 
 - Python 3.6+
-- [PyMuPDF](https://github.com/pymupdf/PyMuPDF) (`fitz` module)
+- [PyMuPDF](https://github.com/pymupdf/PyMuPDF)
 
 Install the requirements with:
 
